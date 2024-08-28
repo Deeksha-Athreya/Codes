@@ -9,7 +9,7 @@ python <any_Test>.py --ID Main_code --data <any_Data>.csv
 ### Example
 
 ```bash
-python weatherTest.py --ID EC_PES2UG22CS163_C_Lab3 --data weatherData.csv
+python weatherTest.py --ID Main_code --data weatherData.csv
 ```
 
 This command will process the weather data from `weatherData.csv` and output the analysis results based on the specified test ID.
